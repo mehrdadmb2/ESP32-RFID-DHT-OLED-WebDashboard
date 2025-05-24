@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 ESP32 RFID + DHT22 + OLED + Web Dashboard 🔐🌡️📊
 
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
@@ -62,7 +62,6 @@
 1. 📥 **Clone the repo**:
    ```bash
    git clone https://github.com/mehrdadmb2/ESP32-RFID-DHT-OLED-WebDashboard.git
-````
 
 2. 📦 **Install required libraries in Arduino IDE**:
 
