@@ -1,3 +1,4 @@
+````markdown
 # 🚀 ESP32 RFID + DHT22 + OLED + Web Dashboard 🔐🌡️📊
 
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
@@ -175,6 +176,7 @@ MIT License © [Mehrdad](https://github.com/mehrdadmb2)
 
 > ساخته شده با 💡 و عشق توسط مهراد برای علاقه‌مندان به IoT
 
+```
 
 ---
 
