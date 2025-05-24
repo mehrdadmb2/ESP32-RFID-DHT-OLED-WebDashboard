@@ -91,7 +91,7 @@
 
 ## 📊 Web Dashboard Preview
 
-![Web Dashboard Screenshot](https://raw.githubusercontent.com/mehrdadmb2/ESP32-RFID-DHT-OLED-WebDashboard/main/assets/dashboard-preview.png)
+![Web Dashboard Screenshot](Screenshot (1194).png)
 
 * Updates every 5 seconds 🕓
 * Shows sensor values, user data, uptime, IP, etc.
